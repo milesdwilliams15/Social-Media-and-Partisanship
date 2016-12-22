@@ -33,7 +33,7 @@ I'll start by first breaking things down by ideology for the entire dataset. Lat
 
 It's pretty clear that the majority of respondents identify as politically moderate (on a conservative-liberal scale). The survey does seem to lean slightly conservative, but that shouldn't be a major issue going forward.
 
-length(social.SNS$How.liberal.factor) # 925 total observations in the "social.SNS" dataset.
+    length(social.SNS$How.liberal.factor) # 925 total observations in the "social.SNS" dataset.
 
     # Install and open the "dpylr" package so we can filter the data to make a new data frame
     # where respondents who didn't report using social media are eliminated:
