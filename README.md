@@ -54,6 +54,7 @@ length(social.SNS$How.liberal.factor) # 925 total observations in the "social.SN
 Among those who reported using social media, the distribtuion of ideological self-identification seems fairly consistent with the larger dataset.
 
 ## How Does Greater Conservative and Liberal Ideology Impact Online Political Behavior?
+
 ### Sharing Political Content Online
 
     # Make a new data frame with stacked group percentages so that we can graph percentages rather
