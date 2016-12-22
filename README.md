@@ -5,7 +5,7 @@ Analysis of the relationship between online political engagement on partisan beh
 
 Back in October of this year (2016) I had the chance to present some of my research at the 87th Annual Meeting of the Indiana Academy of the Social sciences. 
 You can find me in the IASS's event program on page 9, under Political Science Panel 2 (just so you don't think I'm blowing smoke): 
-[IASS Program, 2016](https://drive.google.com/file/d/0B0WaPggKV2mkRVE0MVBsUDhmQkE/view)
+[IASS Program, 2016.](https://drive.google.com/file/d/0B0WaPggKV2mkRVE0MVBsUDhmQkE/view)
 
 My research focused on the question of whether social media has contributed to the hardening of partisan and ideological divisions.
 In this post, I'll expand on some of my analysis by displaying some very simple -- yet straightforward -- analysis of the data I used for my conference presentation.
@@ -201,7 +201,7 @@ Who is more likely to engage in online discussions about politics?
 
 ![con 2](https://cloud.githubusercontent.com/assets/23504082/21418140/ad16f976-c7e4-11e6-84b6-ae316dcfa178.jpeg)
 
-![lib 2](https://cloud.githubusercontent.com/assets/23504082/21418144/b8f5c0d8-c7e4-11e6-8fd4-05dfcf9d4e4b.jpeg)
+![lib 2](https://cloud.githubusercontent.com/assets/23504082/21433506/ac7c60a4-c835-11e6-95e8-bc2259ebb868.jpeg)
 
 Who is more likely to be a friend of an online political group or candidate?
 
