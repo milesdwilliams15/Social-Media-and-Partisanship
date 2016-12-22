@@ -1,5 +1,5 @@
 # Social-Media-and-Partisanship
-Analysis of the relationship between online political engagement on partisan behavior
+Analysis of the relationship between online political engagement on partisan behavior.
 
 [Back to Main Page](https://milesdwilliams15.github.io/)
 
