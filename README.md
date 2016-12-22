@@ -387,7 +387,7 @@ Who is more likely to post political content?
 
 ![con 5](https://cloud.githubusercontent.com/assets/23504082/21418312/e72ea70c-c7e5-11e6-9281-403f637bfd8b.jpeg)
 
-![lib 5](https://cloud.githubusercontent.com/assets/23504082/21418321/ede103e2-c7e5-11e6-8104-c86a23b236a1.jpeg)
+![lib 5](https://cloud.githubusercontent.com/assets/23504082/21434163/9f3b6a5e-c838-11e6-9b5c-18da107ad05b.jpeg)
 
 ## Conclusion
 Aside from a couple of exceptions (i.e., the reported activity of liberal respondents when it comes to being a friend of an online political group and joining an online political group), the general pattern suggests that, among self-reported social media users, the more conservative or liberal an individual identifies, the more likely said person is to engage in online political activity.
