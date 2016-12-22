@@ -31,7 +31,7 @@ I'll start by first breaking things down by ideology for the entire dataset. Lat
 
 ![ideological identification of all survey respondents](https://cloud.githubusercontent.com/assets/23504082/21416365/e4dc9634-c7d7-11e6-8073-320c485363fd.jpeg)
 
-It's pretty clear that the majority of respondents identify as politically moderate (on a conservative-liberal scale). The survey does seem to lean slightly conservative, but that shouldn't be a major issue going forward. I'll explain later...
+It's pretty clear that the majority of respondents identify as politically moderate (on a conservative-liberal scale). The survey does seem to lean slightly conservative, but that shouldn't be a major issue going forward.
 
 length(social.SNS$How.liberal.factor) # 925 total observations in the "social.SNS" dataset.
 
